@@ -1,9 +1,9 @@
 ---
 date: 2019-05-16
 year: 2019
-title: Banana
+title: Adventurous Lifestyle
 category: Identity
-thumbnail: "/uploads/mike-dorner-173502-unsplash.jpg"
+thumbnail: "/uploads/adventuresilken.png"
 categories:
 - photography
 - pink
