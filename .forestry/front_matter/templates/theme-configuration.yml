@@ -5,12 +5,6 @@ fields:
 - type: text
   name: site_name
   label: Site name
-- name: hero_image
-  type: file
-  config:
-    maxSize: 64
-  label: Hero Image
-  default: "/uploads/adventuresilken.png"
 - type: textarea
   name: site_description
   label: Site description
@@ -21,6 +15,12 @@ fields:
     wysiwyg: true
     schema:
       format: html
+- name: hero_image
+  type: file
+  config:
+    maxSize: 64
+  label: Hero Image
+  default: "/uploads/adventuresilken.png"
 - type: textarea
   name: hero_subtitle
   label: Hero subtitle
